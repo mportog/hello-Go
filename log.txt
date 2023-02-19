@@ -1,0 +1,36 @@
+https://www.alura.com.br- response StatusCode:200
+https://www.uol.com.br- response StatusCode:200
+https://www.caelum.com.br- response StatusCode:200
+https://random-status-code.herokuapp.com/- response StatusCode:404
+https://gshow.globo.com/- response StatusCode:200
+https://g1.globo.com/- response StatusCode:200
+https://www.alura.com.br- response StatusCode:200
+https://www.uol.com.br- response StatusCode:200
+https://www.caelum.com.br- response StatusCode:200
+https://random-status-code.herokuapp.com/- response StatusCode:404
+https://gshow.globo.com/- response StatusCode:200
+https://g1.globo.com/- response StatusCode:200
+18/02/2023 19:56:42 - https://www.alura.com.br- response StatusCode:200
+18/02/2023 19:56:43 - https://www.uol.com.br- response StatusCode:200
+18/02/2023 19:56:54 - https://www.caelum.com.br- response StatusCode:200
+18/02/2023 19:56:55 - https://random-status-code.herokuapp.com/- response StatusCode:404
+18/02/2023 19:56:55 - https://gshow.globo.com/- response StatusCode:200
+18/02/2023 19:56:56 - https://g1.globo.com/- response StatusCode:200
+18/02/2023 20:02:29 - https://www.alura.com.br- response StatusCode:200
+18/02/2023 20:02:30 - https://www.uol.com.br- response StatusCode:200
+18/02/2023 20:02:30 - https://www.caelum.com.br- response StatusCode:200
+18/02/2023 20:02:32 - https://random-status-code.herokuapp.com/- response StatusCode:404
+18/02/2023 20:02:32 - https://gshow.globo.com/- response StatusCode:200
+18/02/2023 20:02:32 - https://g1.globo.com/- response StatusCode:200
+18/02/2023 20:02:52 - https://www.alura.com.br- response StatusCode:200
+18/02/2023 20:02:53 - https://www.uol.com.br- response StatusCode:200
+18/02/2023 20:02:53 - https://www.caelum.com.br- response StatusCode:200
+18/02/2023 20:02:54 - https://random-status-code.herokuapp.com/- response StatusCode:404
+18/02/2023 20:02:54 - https://gshow.globo.com/- response StatusCode:200
+18/02/2023 20:02:54 - https://g1.globo.com/- response StatusCode:200
+18/02/2023 20:03:14 - https://www.alura.com.br- response StatusCode:200
+18/02/2023 20:03:15 - https://www.uol.com.br- response StatusCode:200
+18/02/2023 20:03:15 - https://www.caelum.com.br- response StatusCode:200
+18/02/2023 20:03:16 - https://random-status-code.herokuapp.com/- response StatusCode:404
+18/02/2023 20:03:16 - https://gshow.globo.com/- response StatusCode:200
+18/02/2023 20:03:17 - https://g1.globo.com/- response StatusCode:200
